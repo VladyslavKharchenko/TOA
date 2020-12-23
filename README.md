@@ -9,6 +9,6 @@
 7. Додати імплементацію однієї з двох задач на вибір:
     * Розвернути однозв'язний лінійний список на місці.
     * Злити два відсортованих однозв'язних лінійних списка у відсортований лінійний список ✅ [merge_7.py](https://github.com/VladyslavKharchenko/TOA/blob/master/merge_7.py)
-8. Перетворити бінарне пошукове дерево (BST) на однозв'язний лінійний список (підказка: використати in-order DFS обхід дерева) ✅ [bst_to_list.py](https://github.com/VladyslavKharchenko/TOA/blob/master/bst_to_list_8.py)
+8. Перетворити бінарне пошукове дерево (BST) на однозв'язний лінійний список (підказка: використати in-order DFS обхід дерева) ✅ [bst_to_list_8.py](https://github.com/VladyslavKharchenko/TOA/blob/master/bst_to_list_8.py)
 9. Імплементація методу Дейкстри для пошуку найкоротшого шляху у графі ❌
 10. Імплементація вирішення задачі про рюкзак методом Динамічного програмування ✅ [knapsack_10.py](https://github.com/VladyslavKharchenko/TOA/blob/master/knapsack_10.py)
